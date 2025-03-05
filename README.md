@@ -26,7 +26,7 @@ In particular:
 
 # Live Demo Here! 
 
-[https://insta-pawa.com] (https://bit.ly/3Dt0lIb)
+[https://insta-pawa.com](https://bit.ly/3Dt0lIb)
 
 Note: It can be a bit slow due to the free tier service im using ;)
 
